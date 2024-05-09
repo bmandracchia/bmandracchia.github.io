@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Biagio Mandracchia, PhD"
+title                    : "Biagio Mandracchia"
 title_separator          : "-"
 name                     : &name "Biagio Mandracchia"
 description              : &description "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the University of Valladolid, Spain"
@@ -22,9 +22,9 @@ repository               : "bmandracchia/bmandracchia.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "BM"
+  name             : "Biagio Mandracchia, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the [www.uva.es]University of Valladolid, Spain."
+  bio              : "Ramón y Cajal Professor at the Department of Telematic Engineering of the University of Valladolid, Spain."
   location         : "Valladolid, Spain"
   employer         : "Universidad de Valladolid"
   uri              : # URL
