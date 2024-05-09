@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "BM"
   pronouns         : # example: "she/her"  
-  bio              : "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the University of Valladolid, Spain. I do research in Optics for Metrology and Biophysics."
+  bio              : "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the University of Valladolid, Spain."
   location         : "Valladolid, Spain"
   employer         : "Universidad de Valladolid"
-  uri              : https://www.uva.es # URL
+  uri              : # URL
   email            : "biagio.mandracchia@uva.es" 
 
   # Academic websites
@@ -42,12 +42,12 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "bmandracchia"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
