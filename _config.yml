@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Biagio Mandracchia, PhD"
   pronouns         : # example: "she/her"  
-  bio              : "Ramón y Cajal Professor at the University of Valladolid, Department of Telematic Engineering."
+  bio              : "Ramón y Cajal Professor <br> at the  <ul><li><a style='color: black;' href='www.uva.es'>University of Valladolid</a></li>, <br> <li><a style='color: black;' href='https://www.tel.uva.es'>Department of Telematic Engineering</a></li></ul>."
   location         : "Valladolid, Spain"
   employer         : "Universidad de Valladolid"
   uri              : # URL
