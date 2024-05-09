@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Biagio Mandracchia, PhD"
 title_separator          : "-"
 name                     : &name "Biagio Mandracchia"
-description              : &description " "
+description              : &description "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the University of Valladolid, Spain"
 url                      : https://bmandracchia.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bmandracchia/bmandracchia.github.io"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "BM"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
+  bio              : "Ramón y Cajal Professor at the Department of Signal Theory and Communications and Telematic Engineering of the University of Valladolid, Spain. I do research in Optics for Metrology and Biophysics."
+  location         : "Valladolid, Spain"
+  employer         : "Universidad de Valladolid"
+  uri              : https://www.uva.es # URL
   email            : "biagio.mandracchia@uva.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=6p5WyAkAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : ""
+  orcid            : "https://orcid.org/0000-0002-4583-4733"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=biagio+mandracchia"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Biagio-Mandracchia" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
