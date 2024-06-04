@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Research Page"
+title: "Welcome to My Research Page (under construction)"
 author_profile: true
 redirect_from: 
   - /about/
@@ -22,11 +22,11 @@ My research focuses on:
 
 ## Current Projects
 
-- **Multiscale Image Restoration through Optimally-Sparse Representation (MIRO)**: This project focuses on creating a system that significantly improves the clarity of fluorescence microscopy images by addressing the limitations of current imaging detectors. The MIRO system utilizes optimally-sparse representation techniques to enhance image resolution and quality.
+- **Physically-informed Image Restoration**: This project focuses on creating algorithms that significantly improve resolution and reliability of fluorescence microscopy images by modeling optical systems and imaging detectors. This research aims to provide more detailed and accurate visualizations of cellular interfaces and dynamics.
   
-- **Quantitative Phase Imaging**: Working on novel microscopy techniques to achieve quantitative phase imaging in total internal reflection. This research aims to provide more detailed and accurate visualizations of cellular interfaces and dynamics.
+- **High-speed imaging and microfluidics**: Working on novel microscopy techniques high-speed and high-throughput imaging for rapid exploration of biodynamics using fluorescence microscopy and microfluidics.
   
-- **Holographic Microscopy**: Developing methods for label-free quantification of cellular processes through holographic microscopy, which offers new ways to study the effects of various treatments on cells without the need for fluorescent labels.
+- **Imaging for diagnostics**: Developing methods for fast, automated diagnostics through computational microscopy. In particular, we are studying new ways to detect pathogens and observe the effects of various treatments on cells without the need for fluorescent labels.
 
 ## Contact
 
