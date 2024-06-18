@@ -3,7 +3,7 @@ title: "Easy Printing of High Viscous Microdots by Spontaneous Breakup of Thin F
 collection: publications
 permalink: /publication/2018_Mecozzi_ACS_Applied_Materials_and_Interfaces
 excerpt: 'Electrohydrodynamic jetting is emerging as a successful technique for printing inks with resolutions well beyond those offered by conventional inkjet printers. However, the variety of printable inks is still limited to those with relatively low viscosities (typically <20 mPa s) due to nozzle clogging problems. Here, we show the possibility of printing ordered microdots of high viscous inks such as poly(lactic-co-glycolic acid) (PLGA) by exploiting the spontaneous breakup of a thin fiber generated through nozzle-free pyro-electrospinning. The PLGA fiber is deposited onto a partially wetting surface, and the breakup is achieved simply by applying an appropriate thermal stimulation, which is able to induce polymer melting and hence a mechanism of surface area minimization due to the Plateau-Rayleigh instability. The results show that this technique is a good candidate for extending the printability at the microscale to high viscous inks, thus extending their applicability to additional applications, such as cell behavior under controlled morphological constraints.'
-date: 2018-00-00
+date: 2018-53
 venue: 'ACS Applied Materials and Interfaces'
 DOI: '10.1021/acsami.7b17358'
 ---

@@ -3,7 +3,7 @@ title: "Compact off-axis holographic slide microscope: design guidelines"
 collection: publications
 permalink: /publication/2020_Cacace_Biomedical_Optics_Express
 excerpt: 'Holographic microscopes are emerging as suitable tools for in situ diagnostics and environmental monitoring, providing high-throughput, label-free, quantitative imaging capabilities through small and compact devices. In-line holographic microscopes can be realized at contained costs, trading off complexity in the phase retrieval process and being limited to sparse samples. Here we present a 3D printed, cost effective and field portable off-axis holographic microscope based on the concept of holographic microfluidic slide. Our scheme removes complexity from the reconstruction process, as phase retrieval is non iterative and obtainable by hologram demodulation. The configuration we introduce ensures flexibility in the definition of the optical scheme, exploitable to realize modular devices with different features. We discuss trade-offs and design rules of thumb to follow for developing DH microscopes based on the proposed solution. Using our prototype, we image flowing marine microalgae, polystyrene beads, E.coli bacteria and microplastics. We detail the effect on the performance and costs of each parameter, design, and hardware choice, guiding readers toward the realization of optimized devices that can be employed out of the lab by non-expert users for point of care testing.'
-date: 2020-00-00
+date: 2020-22
 venue: 'Biomedical Optics Express'
 DOI: '10.1364/boe.11.002511'
 ---

@@ -3,7 +3,7 @@ title: "Portable light-sheet optofluidic microscopy for 3D fluorescence imaging 
 collection: publications
 permalink: /publication/2023_Son_Lab_on_a_Chip
 excerpt: 'Imaging flow cytometry (IFC) combines conventional flow cytometry with optical microscopy, allowing for high-throughput, multi-parameter screening of single-cell specimens with morphological and spatial information. However, current 3D IFC systems are limited by instrumental complexity and incompatibility with available microfluidic devices or operations. Here, we report portable light-sheet optofluidic microscopy (PLSOM) for 3D fluorescence cytometric imaging. PLSOM exploits a compact, open-top light-sheet configuration compatible with commonly adopted microfluidic chips. The system offers a subcellular resolution (2-4 μm) in all three dimensions, high throughput (∼1000 cells per s), and portability (30 cm (l) × 10 cm (w) × 26 cm (h)). We demonstrated PLSOM for 3D IFC using various phantom and cell systems. The low-cost and custom-built architecture of PLSOM permits easy adaptability and dissemination for broad 3D flow cytometric investigations.'
-date: 2023-00-00
+date: 2023-3
 venue: 'Lab on a Chip'
 DOI: '10.1039/d2lc01024k'
 ---
