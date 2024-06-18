@@ -3,7 +3,7 @@ title: "Light-field flow cytometry for high-resolution, volumetric and multipara
 collection: publications
 permalink: /publication/2024_Hua_Nature_Communications
 excerpt: 'Imaging flow cytometry (IFC) combines flow cytometry and fluorescence microscopy to enable high-throughput, multiparametric single-cell analysis with rich spatial details. However, current IFC techniques remain limited in their ability to reveal subcellular information with a high 3D resolution, throughput, sensitivity, and instrumental simplicity. In this study, we introduce a light-field flow cytometer (LFC), an IFC system capable of high-content, single-shot, and multi-color acquisition of up to 5,750 cells per second with a near-diffraction-limited resolution of 400-600 nm in all three dimensions. The LFC system integrates optical, microfluidic, and computational strategies to facilitate the volumetric visualization of various 3D subcellular characteristics through convenient access to commonly used epi-fluorescence platforms. We demonstrate the effectiveness of LFC in assaying, analyzing, and enumerating intricate subcellular morphology, function, and heterogeneity using various phantoms and biological specimens. The advancement offered by the LFC system presents a promising methodological pathway for broad cell biological and translational discoveries, with the potential for widespread adoption in biomedical research.'
-date: 2024-0
+date: 2023
 venue: 'Nature Communications'
 DOI: '10.1038/s41467-024-46250-7'
 ---
