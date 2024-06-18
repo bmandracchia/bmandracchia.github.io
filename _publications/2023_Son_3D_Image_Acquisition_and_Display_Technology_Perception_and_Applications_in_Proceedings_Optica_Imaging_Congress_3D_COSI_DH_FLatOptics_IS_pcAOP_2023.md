@@ -3,7 +3,7 @@ title: "Multicolor 3D-fluorescence imaging flow cytometry with portable light-sh
 collection: publications
 permalink: /publication/2023_Son_3D_Image_Acquisition_and_Display_Technology_Perception_and_Applications_in_Proceedings_Optica_Imaging_Congress_3D_COSI_DH_FLatOptics_IS_pcAOP_2023
 excerpt: 'Fluorescence imaging flow cytometry (IFC) has enriched both structural and functional information for diverse applications. We developed portable light-sheet optofluidic microscopy equipping simultaneous multicolor acquisition for high-throughput and multicolor 3D florescence IFC application.'
-date: 2023
+date: 2023-00-00
 venue: '3D Image Acquisition and Display: Technology, Perception and Applications in Proceedings Optica Imaging Congress, 3D, COSI, DH, FLatOptics, IS, pcAOP 2023'
 DOI: '10.1364/3D.2023.DTu2A.3'
 ---

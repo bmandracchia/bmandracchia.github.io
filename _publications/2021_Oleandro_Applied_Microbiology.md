@@ -3,7 +3,7 @@ title: "Biospeckle Analysis and Biofilm Electrostatic Tests, Two Useful Methods 
 collection: publications
 permalink: /publication/2021_Oleandro_Applied_Microbiology
 excerpt: 'The development of more sensitive methodologies, capable of quickly detecting and monitoring a microbial population present in a specific biological matrix, as well as performing to allow for the study of all its metabolic changes (e.g., during the formation of biofilm) to occur, is an essential requirement for both well-being and the food industry. Two techniques, in particular, have gained the attention of scientists: The first is “biospeckle”, an optical technique representing an innovative tool for applications in food quality, food safety, and nutraceuticals. With this technique, we can quickly evaluate and monitor the presence of bacteria (or their proliferation) in a solid or liquid biological matrix. In addition, the technique is helpful in quantifying and optimizing the correct storage time of the pro-biotics, if they are entrapped in matrices such as alginate and follow their survival rate in simulated gastro-intestinal conditions. A second technique with great chances is the “biofilm electrostatic test” (BET). BET undoubtedly represents a fast, simple, and highly reproducible tool suitable for admitting the evaluation of the in vitro bacterial capacity in order to adhere through an electrostatic interaction with a pyro-electrified carrier after only 2 h of incubation. BET could represent the way for a quick and standardized evaluation of bacterial resistance among biofilm-producing microorganisms through a fast evaluation of the potential presence of the biofilm.'
-date: 2021
+date: 2021-00-00
 venue: 'Applied Microbiology'
 DOI: '10.3390/applmicrobiol1030036'
 ---
