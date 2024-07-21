@@ -11,54 +11,80 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+Ph.D. in Engineering of Industrial Products and Processes, University of Naples Federico II, Italy, 2011
+M.S. in Physics (cum laude), University of Naples Federico II, Italy, 2011
+B.S. in Physics, University of Naples Federico II, Italy
+
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Jan 2023 - ongoing: Ramón y Cajal Research Fellow
+Universidad de Valladolid - Department of Signal Theory and Communications and Telematic Engineering
+Valladolid, Spain
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Apr 2022 – Dec 2022	“Maria Zambrano” Fellow 
+Universidad Complutense de Madrid - Department of Optics
+Madrid, Spain
+
+Sept 2018 – March 2022	Postdoctoral Fellow
+Georgia Institute of Technology & Emory University - Department of Biomedical Engineering 
+Atlanta, GA, USA.
+
+Apr 2018 – Aug 2018	Postdoctoral Associate
+SUNY Stony Brook – Biomedical Engineering Department
+Stony Brook, NY, USA.
+
+2017 – 2018	Postdoctoral Associate
+Italian National Research Council, Institute of Applied Science and Intelligent Systems (CNR – ISASI)
+Pozzuoli (NA), Italy.
+
+2013 – 2014	Research Assistant
+Italian National Research Council, National Institute of Optics (CNR - INO)
+Naples, Italy.
+
+2011 – 2012	Research Assistant, ICFO - Institute of Photonic Sciences
+Barcelona, Spain.
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Advanced Optical Microscopy
+Total Internal Reflection Microscopy
+Holographic Microscopy
+Super-resolution Microscopy
+Signal and Image Processing
+Quantitative Phase Imaging
+Fluorescence Imaging
+Research and Data Analysis
+Statistical Analysis
+Algorithm Development
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
 Talks
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
+<ul>{% for post in site.talks reversed %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}</ul>
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+
+<ul>{% for post in site.teaching reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}</ul>
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+
+Reviewer for several high-impact scientific journals
+Mentor to undergraduate and graduate students in various research projects
+

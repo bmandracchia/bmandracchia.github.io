@@ -2,9 +2,9 @@
 title: "Artificial Intelligence for Biomedical Data"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2023-autumn-teaching-1
+permalink: /teaching/2024-autumn-teaching-1
 venue: "University of Valladolid, Department of Biomedical Engineering"
-date: 2023-09-12
+date: 2024-09-12
 location: "Valladolid, Spain"
 ---
 
