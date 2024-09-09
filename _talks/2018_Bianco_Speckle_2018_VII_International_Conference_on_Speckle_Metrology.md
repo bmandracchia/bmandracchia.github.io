@@ -1,6 +1,7 @@
 ---
 title: "Wavefront division off-axis digital holography microscopy on chip"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2018_Bianco_Speckle_2018_VII_International_Conference_on_Speckle_Metrology
 date: 2018-01-01
 venue: 'Speckle 2018: VII International Conference on Speckle Metrology'

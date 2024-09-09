@@ -1,6 +1,7 @@
 ---
 title: "The gradient and frequency-wise analysis improves wide-field imaging in miniaturized one-photon microscopy"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2019_Son_Optics_InfoBase_Conference_Papers
 excerpt: 'The miniaturized one-photon epi-fluorescence microscopy (miniscopy) has emerged as a powerful tool for in vivo functional brain imaging. Here, we report a computational method to improve the image quality of miniscopy.'
 date: 2019-01-01

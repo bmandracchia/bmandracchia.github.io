@@ -1,6 +1,7 @@
 ---
 title: "A compact open-top light-sheet microscope for Optofluidic imaging"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2022_Son_Three-Dimensional_and_Multidimensional_Microscopy_Image_Acquisition_and_Processing_XXIX
 date: 2022-01-01
 venue: 'Three-Dimensional and Multidimensional Microscopy: Image Acquisition and Processing XXIX'

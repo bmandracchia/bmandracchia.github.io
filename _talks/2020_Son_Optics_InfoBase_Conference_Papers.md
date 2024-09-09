@@ -1,6 +1,7 @@
 ---
 title: "Miniaturized optical fluorescence microscopy system for parallel in situ imaging"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2020_Son_Optics_InfoBase_Conference_Papers
 excerpt: 'Live cell fluorescence imaging have enriched image-based screening applications with microwell plates. Here, we propose a portable system by synchronizing miniaturized microscopies and show the performance of live cell imaging inside an incubator.'
 date: 2020-01-01

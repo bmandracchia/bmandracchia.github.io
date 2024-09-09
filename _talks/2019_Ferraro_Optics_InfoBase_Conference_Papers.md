@@ -1,6 +1,7 @@
 ---
 title: "Holographic imaging for 3D visualization and metrology of liquid bubbles"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2019_Ferraro_Optics_InfoBase_Conference_Papers
 excerpt: 'Computation tools allow to enforce 3D imaging through thus making digital holography a powerful metrology instrument in science and technology of liquid bubbles and films.'
 date: 2019-01-01

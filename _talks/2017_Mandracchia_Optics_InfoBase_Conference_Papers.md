@@ -1,6 +1,7 @@
 ---
 title: "Quantitative phase imaging by evanescent wave microscopy"
 collection: publications
+type: Conference proceedings talk
 permalink: /publication/2017_Mandracchia_Optics_InfoBase_Conference_Papers
 excerpt: 'Here we show the versatility of Digital Holography Microscopy for the development of innovative systems for quantitative phase imaging of Total Internal Reflection.'
 date: 2017-01-01

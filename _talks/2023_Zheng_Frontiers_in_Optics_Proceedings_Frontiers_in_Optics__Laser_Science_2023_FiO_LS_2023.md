@@ -1,6 +1,7 @@
 ---
 title: "High-speed CMOS imaging with fiber bundle optical reassignment"
 collection: proceedings
+type: Conference proceedings talk
 permalink: /proceedings/2023_Zheng_Frontiers_in_Optics_Proceedings_Frontiers_in_Optics__Laser_Science_2023_FiO_LS_2023
 excerpt: 'We demonstrate ultra-fast 25.6kHz imaging on a conventional epi-fluorescent sCMOS camera setup, surpassing the compromise between field of view (FOV) and imaging speed via introducing a custom fiber-optic bundle without significant complexity or cost.'
 date: 2023-01-01
