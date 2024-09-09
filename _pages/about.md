@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 ## About Me
----
 
 Hello! I am Biagio Mandracchia, a Ramón y Cajal Research Fellow at the University of Valladolid. My primary research interest lies in the field of fluorescence microscopy and image restoration. Over the years, I have dedicated my efforts to developing innovative techniques aimed at enhancing the clarity and quality of microscopic images. These advancements are crucial for various scientific fields, enabling researchers to observe and analyze biological processes with greater precision.
 
