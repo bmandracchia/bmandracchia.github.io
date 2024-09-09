@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to My Research Page (under construction)"
+title: "Welcome to My Research Page"
 author_profile: true
 redirect_from: 
   - /about/
