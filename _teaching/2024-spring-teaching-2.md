@@ -6,6 +6,7 @@ permalink: /teaching/2024-spring-teaching-2
 venue: "University of Valladolid, Department of Telematic Engineering"
 date: 2024-02-24
 location: "Valladolid, Spain"
+excerpt: 'The course provides the necessary tools to work rigorously with signals and systems in various fields.'
 ---
 
 ### Brief Description

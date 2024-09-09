@@ -6,7 +6,7 @@ permalink: /teaching/2022-spring-teaching-1
 venue: "University Complutense of Madrid, Department of Physics"
 date: 2022-09-12
 location: "Madrid, Spain"
-excerpt: 'enabled'
+excerpt: 'Laboratories of Optics, and Electricity and Magnetism.'
 ---
 
 ### Brief Description

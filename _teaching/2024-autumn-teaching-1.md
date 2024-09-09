@@ -6,6 +6,7 @@ permalink: /teaching/2024-autumn-teaching-1
 venue: "University of Valladolid, Department of Biomedical Engineering"
 date: 2024-09-12
 location: "Valladolid, Spain"
+excerpt: 'Artificial intelligence methods to develope models for clinical decision-making.'
 ---
 
 ### Brief Description
